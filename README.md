@@ -1,4 +1,4 @@
-# Real-time Colaborative Code editor
+# Real-time Collaborative Code editor
 
 ## steps to run
 1. `cd` into server and run `go run main.go`
